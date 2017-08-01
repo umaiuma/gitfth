@@ -1,8 +1,17 @@
 def foo1
+ p 'a'
+ p 'b'
+ p 'c'
 end
 
 def foo2
+ p 'd'
+ p 'e'
+ p 'f'
 end
 
 def foo3
+ p 'g'
+ p 'h'
+ p 'i
 end
