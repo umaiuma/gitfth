@@ -1,12 +1,8 @@
-1
-2
-3
-4
-a
-b
-c
-d
-e
-f
-g
-h
+def foo1
+end
+
+def foo2
+end
+
+def foo3
+end
